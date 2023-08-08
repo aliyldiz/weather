@@ -81897,7 +81897,7 @@ $1(a){return A.cf([this.a.push(B.b6.S3(a,null))],t.H)},
 $S:486}
 A.yW.prototype={
 aj(){var s=t.N,r=t.z,q=t.s
-return new A.yX(B.et,new A.ajv(A.ar(["X-RapidAPI-Key","1adc78278dmshd9d49a61e7fc226p1fd8d9jsnd1ba7af1865f","X-RapidAPI-Host","opencage-geocoder.p.rapidapi.com"],s,s),A.ar(["q","40.23, 28.93","key","5d910a065f79434f812aa62ece997ea1"],s,r),A.ar(["appid","dd0189d0baa1f62c2d8e61e99186b748","units","metric","cnt","40","lang","tr","lat","26","lon","45"],s,r)),A.a(["clouds_new","precipitation_new","pressure_new","wind_new","temp_new"],q),A.a(["Bulut","Ya\u011f\u0131\u015f","Bas\u0131n.","R\xfczgar","S\u0131cakl\u0131k"],q),A.aMz(null),B.k)}}
+return new A.yX(B.et,new A.ajv(A.ar(["X-RapidAPI-Key","1adc78278dmshd9d49a61e7fc226p1fd8d9jsnd1ba7af1865f","X-RapidAPI-Host","opencage-geocoder.p.rapidapi.com"],s,s),A.ar(["q","40.23, 28.93","key","5d910a065f79434f812aa62ece997ea1"],s,r),A.ar(["appid","dd0189d0baa1f62c2d8e61e99186b748","units","metric","cnt","40","lang","tr","lat","26","lon","45"],s,r)),A.a(["clouds_new","precipitation_new","pressure_new","wind_new","temp_new"],q),A.a(["Bulut","Ya\u011f\u0131\u015f","Bas\u0131n\xe7","R\xfczgar","S\u0131cakl\u0131k"],q),A.aMz(null),B.k)}}
 A.yX.prototype={
 ar(){var s,r=this,q=r.c
 q.toString
